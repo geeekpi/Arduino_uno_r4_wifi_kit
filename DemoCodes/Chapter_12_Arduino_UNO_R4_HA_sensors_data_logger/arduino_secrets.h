@@ -1,0 +1,2 @@
+#define SECRET_SSID "HUAWEI-B4NKSR"
+#define SECRET_PASS "stm32f429"
